@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(62, 62, 62);
+}
+
+.container {
+
+  text-align: center;
+  border: 1px solid white;
+  height: 250px;
+  width: 200px;
+  margin: auto;
+  padding: auto;
+  background-color: rgb(111, 111, 147);
+}
+
+p {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.btn {
+  background-color: rgb(89, 247, 89);
+  height: 30px;
+  width: 60px;
+  border-radius: 10px;
+  margin: 10px;
+  margin-top: 20px;
+  font-weight: 700;
+
+}
